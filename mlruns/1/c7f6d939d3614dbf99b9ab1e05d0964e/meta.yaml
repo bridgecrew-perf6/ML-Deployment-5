@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ml_projects/spyder/mlruns/1/c7f6d939d3614dbf99b9ab1e05d0964e/artifacts
+end_time: 1648355256446
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c7f6d939d3614dbf99b9ab1e05d0964e
+run_uuid: c7f6d939d3614dbf99b9ab1e05d0964e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1648355255003
+status: 3
+tags: []
+user_id: Bruce
