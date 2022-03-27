@@ -21,10 +21,10 @@ response.text
 import tweepy
 
 #my twitter key mvisanu10 mvisanu@gmail.com
-consumer_key='KJge0tijOpqwM2rmrT8TlLhLk'
-consumer_secret ='Rcfq6ErEwWkLSzIHuDHRVOSO9ngRfrWkvOMtM44amlV8ZgeFFM'
-access_token = '1507818730641928207-NkiANV1TinBh171xIw0kMku1rRhABN'
-access_secret = 'ajcQgMTvog1RBOQyWlarZh2hlY5JXsYQ1CvDa3zwNywpB'
+consumer_key='<key>'
+consumer_secret ='<secret>'
+access_token = '<token>'
+access_secret = '<acc secret>'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
